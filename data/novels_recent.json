@@ -1,32 +1,78 @@
 [
   {
-    "id": 1,
-    "title": "After Severing Ties, The Prince’s Family Regrets It For Life",
-    "title_original": "断绝关系后，王爷全家后悔终生",
-    "slug": "after-severing-ties-the-princes-family-regrets-it-for-life",
-    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
-    "link": "https://novelskyworld.blogspot.com/p/after-severing-ties-princes-family.html",
-    "status": "ONGOING",
-    "genre": "historical_noble_drama"
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://novelskyworld.blogspot.com/p/after-severing-ties-princes-family.html",
+    "chapters": [
+      {
+        "num": 9,
+        "title": "Chapter 9: Mother, Oh Mother!",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-9-mother-oh-mother.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 7,
+        "title": "Chapter 7: Three Sets of Clothes",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-7-three-sets-of-clothes.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 5,
+        "title": "Chapter 5: Rites of Mourning",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-5-rites-of-mourning.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 4,
+        "title": "Chapter 4: Blood and Silver",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-4-blood-and-silver.html",
+        "date": "2026-10-11T13:00:00+00:00"
+      },
+      {
+        "num": 3,
+        "title": "Chapter 3: Flesh for Father, Bone for Mother",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-3-flesh-for-father-bone-for.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      }
+    ]
   },
   {
-    "id": 6,
-    "title": "English Novel",
-    "title_original": "",
-    "slug": "english-novel",
-    "cover": "",
-    "link": "",
-    "status": "ONGOING",
-    "genre": "Webnovel"
-  },
-  {
-    "id": 7,
-    "title": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
-    "title_original": "全宗门炮灰读我心后，剧情真崩啦",
-    "slug": "when-the-entire-sect-read-my-thoughts",
-    "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
-    "link": "https://novelskyworld.blogspot.com/p/when-entire-sect-read-my-thoughts-plot.html",
-    "status": "ONGOING",
-    "genre": "Webnovel"
+    "novelId": 7,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://novelskyworld.blogspot.com/p/when-entire-sect-read-my-thoughts-plot.html",
+    "chapters": [
+      {
+        "num": 9,
+        "title": "Chapter 9: 9: The Wheel of Fate Turns—This Sovereign Is Quite Awesome",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-9-9-wheel-of-fate-turnsthis_01100242006.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 7,
+        "title": "Chapter 7: 7: Honeyed Protagonist Halo - The Dragon-Blooded Paragon's Inauspicious Journey",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-7-7-honeyed-protagonist-halo.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 5,
+        "title": "Chapter 5: 5: The Agony of the Past—Transmigrating into a Harem Heroine",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-5-5-agony-of-pasttransmigrating.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 3,
+        "title": "Chapter 3: 3: Walking on the Frontlines of Gossip—Never Pick Up Wild Men by the Roadside",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-3-3-walking-on-frontlines-of.html",
+        "date": "2026-10-11T06:00:00+00:00"
+      },
+      {
+        "num": 2,
+        "title": "Chapter 2: 2: Rejecting the Unlucky Academic Degree—Starting by Refusing to Become a Sword Cultivator",
+        "link": "https://novelskyworld.blogspot.com/2026/10/chapter-2-2-rejecting-unlucky-academic.html",
+        "date": "2026-10-11T13:00:00+00:00"
+      }
+    ]
   }
 ]
