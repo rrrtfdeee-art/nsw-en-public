@@ -8,28 +8,19 @@
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "link": "https://novelskyworld.blogspot.com/p/after-severing-ties-princes-family.html",
     "url": "https://novelskyworld.blogspot.com/p/after-severing-ties-princes-family.html",
-    "status": "ONGOING",
-    "genre": "historical_noble_drama",
+    "status": "Ongoing",
+    "genre": "Historical",
     "genres": [
-      "historical_noble_drama"
+      "Historical",
+      "Drama",
+      "Nobility"
     ],
-    "tags": []
-  },
-  {
-    "id": 6,
-    "order": 6,
-    "title": "English Novel",
-    "title_original": "",
-    "slug": "english-novel",
-    "cover": "",
-    "link": "",
-    "url": "",
-    "status": "ONGOING",
-    "genre": "Webnovel",
-    "genres": [
-      "Webnovel"
-    ],
-    "tags": []
+    "tags": [
+      "Regret",
+      "Severing Ties",
+      "Aristocracy",
+      "Calm Protagonist"
+    ]
   },
   {
     "id": 7,
@@ -40,11 +31,21 @@
     "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
     "link": "https://novelskyworld.blogspot.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "url": "https://novelskyworld.blogspot.com/p/when-entire-sect-read-my-thoughts-plot.html",
-    "status": "ONGOING",
-    "genre": "Webnovel",
+    "status": "Ongoing",
+    "genre": "Comedy",
     "genres": [
-      "Webnovel"
+      "Comedy",
+      "Fantasy",
+      "Xianxia",
+      "Action",
+      "Adventure"
     ],
-    "tags": []
+    "tags": [
+      "Mind Reading",
+      "Cannon Fodder",
+      "Female Protagonist",
+      "Sect Doting",
+      "Cultivation"
+    ]
   }
 ]
