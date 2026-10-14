@@ -1,21 +1,5 @@
 [
   {
-    "id": 6,
-    "order": 6,
-    "title": "English Novel",
-    "title_original": "",
-    "slug": "english-novel",
-    "cover": "",
-    "link": "#",
-    "url": "#",
-    "status": "ONGOING",
-    "genre": "Webnovel",
-    "genres": [
-      "Webnovel"
-    ],
-    "tags": []
-  },
-  {
     "id": 1,
     "order": 1,
     "title": "After Severing Ties, The Prince’s Family Regrets It For Life",
