@@ -1,137 +1,609 @@
 [
   {
-    "novelId": 1,
-    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
-    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
-    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
-    "chapters": [
-      {
-        "num": 165,
-        "title": "Chapter 165: A Tale of Butterflies and Deception",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-165-tale-of-butterflies-and.html",
-        "date": "2026-11-15T07:00:00+00:00"
-      },
-      {
-        "num": 164,
-        "title": "Chapter 164: The Sky-Propping Staff",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-164-sky-propping-staff.html",
-        "date": "2026-11-15T02:00:00+00:00"
-      },
-      {
-        "num": 163,
-        "title": "Chapter 163: The Crown Imperial Imperial Prince Would Never Fall Ill!",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-163-crown-imperial-imperial.html",
-        "date": "2026-11-14T22:00:00+00:00"
-      },
-      {
-        "num": 162,
-        "title": "Chapter 162: Baffled Beyond Words!",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-162-baffled-beyond-words.html",
-        "date": "2026-11-14T17:00:00+00:00"
-      },
-      {
-        "num": 161,
-        "title": "Chapter 161: A Physician May Save Lives, but a Physician May Also Take Them",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-161-physician-may-save-lives.html",
-        "date": "2026-11-14T12:00:00+00:00"
-      },
-      {
-        "num": 160,
-        "title": "Chapter 160: The Crimson Butcher's Claim",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-160-crimson-butchers-claim.html",
-        "date": "2026-11-14T07:00:00+00:00"
-      },
-      {
-        "num": 159,
-        "title": "Chapter 159: To Think He Even Prepared This in Advance!",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-159-to-think-he-even-prepared.html",
-        "date": "2026-11-14T02:00:00+00:00"
-      },
-      {
-        "num": 158,
-        "title": "Chapter 158: A Sword Drawn in the Dark",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-158-sword-drawn-in-dark.html",
-        "date": "2026-11-13T22:00:00+00:00"
-      },
-      {
-        "num": 157,
-        "title": "Chapter 157: You, Worthy?",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-157-you-worthy.html",
-        "date": "2026-11-13T17:00:00+00:00"
-      },
-      {
-        "num": 156,
-        "title": "Chapter 156: Wang Chuan, Imperial Imperial Prince of Jing'an",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-156-wang-chuan-imperial.html",
-        "date": "2026-11-13T12:00:00+00:00"
-      }
-    ]
-  },
-  {
     "novelId": 2,
     "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
     "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "chapters": [
       {
-        "num": 166,
-        "title": "Chapter 166: Seeking a Way Home—The Little Electric Fan's Grievances",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-166-166-seeking-way-homethe.html",
-        "date": "2026-11-15T12:20:00+00:00"
+        "num": 56,
+        "title": "Chapter 56: Past Secrets of the Wrathful Sea Sect",
+        "chapterTitle": "Chapter 56: Past Secrets of the Wrathful Sea Sect",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 56: Past Secrets of the Wrathful Sea Sect",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-56-56-past-secrets-of-wrathful.html",
+        "date": "2026-10-24T12:20:00+00:00"
       },
       {
-        "num": 165,
-        "title": "Chapter 165: You Talk Too Much—Short Hands and Soft Mouths",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-165-165-165-you-talk-too.html",
-        "date": "2026-11-15T07:20:00+00:00"
+        "num": 55,
+        "title": "Chapter 55: The Panacea of All Ills—The Cultivation World Is Truly Doomed",
+        "chapterTitle": "Chapter 55: The Panacea of All Ills—The Cultivation World Is Truly Doomed",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 55: The Panacea of All Ills—The Cultivation World Is Truly Doomed",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-55-panacea-of-all-illsthe.html",
+        "date": "2026-10-24T07:20:00+00:00"
       },
       {
-        "num": 164,
-        "title": "Chapter 164: You Don't Understand Fists—Brothers Share Hearts, but Plot for Parts",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-164-164-you-dont-understand.html",
-        "date": "2026-11-15T02:20:00+00:00"
+        "num": 54,
+        "title": "Chapter 54: Breaking the Array—Fellow Daoist Feng, Are You Incapable?",
+        "chapterTitle": "Chapter 54: Breaking the Array—Fellow Daoist Feng, Are You Incapable?",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 54: Breaking the Array—Fellow Daoist Feng, Are You Incapable?",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-54-breaking-arrayfellow-daoist.html",
+        "date": "2026-10-24T02:20:00+00:00"
       },
       {
-        "num": 163,
-        "title": "Chapter 163: The Worthless Weeds of the Divine Valley",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-163-163-worthless-weeds-of.html",
-        "date": "2026-11-14T22:20:00+00:00"
+        "num": 53,
+        "title": "Chapter 53: The Protagonist's Might—The \"Charm\" of Long Aotian",
+        "chapterTitle": "Chapter 53: The Protagonist's Might—The \"Charm\" of Long Aotian",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 53: The Protagonist's Might—The \"Charm\" of Long Aotian",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-53-53-protagonists-mightthe.html",
+        "date": "2026-10-23T22:20:00+00:00"
       },
       {
-        "num": 162,
-        "title": "Chapter 162: Flowers Are... *That* Part? You Mortals Are Perverts!",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-162-162-flowers-are-that-part.html",
-        "date": "2026-11-14T17:20:00+00:00"
+        "num": 52,
+        "title": "Chapter 52: Beat the Scum at His Own Game",
+        "chapterTitle": "Chapter 52: Beat the Scum at His Own Game",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 52: Beat the Scum at His Own Game",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-52-52-beat-scum-at-his-own-game.html",
+        "date": "2026-10-23T17:20:00+00:00"
       },
       {
-        "num": 161,
-        "title": "Chapter 161: The Sword Sect’s Porcine Charge—In a World of Monsters, We All Give Way",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-161-161-sword-sects-porcine.html",
-        "date": "2026-11-14T12:20:00+00:00"
+        "num": 51,
+        "title": "Chapter 51: Walk Enough Night Paths and You’re Bound to Stumble: Beating You Up Requires No Special Occasion",
+        "chapterTitle": "Chapter 51: Walk Enough Night Paths and You’re Bound to Stumble: Beating You Up Requires No Special Occasion",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 51: Walk Enough Night Paths and You’re Bound to Stumble: Beating You Up Requires No Special Occasion",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-51-51-walk-enough-night-paths.html",
+        "date": "2026-10-23T12:20:00+00:00"
       },
       {
-        "num": 160,
-        "title": "Chapter 160: Wealth Is No Barrier to Friendship—The Bizarre Denizens of the Secret Realm",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-160-160-wealth-is-no-barrier-to.html",
-        "date": "2026-11-14T07:20:00+00:00"
+        "num": 50,
+        "title": "Chapter 50: Paving the Way with a Cutlassfish—Hack Him to Bits!",
+        "chapterTitle": "Chapter 50: Paving the Way with a Cutlassfish—Hack Him to Bits!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 50: Paving the Way with a Cutlassfish—Hack Him to Bits!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-50-paving-way-with.html",
+        "date": "2026-10-23T07:20:00+00:00"
       },
       {
-        "num": 159,
-        "title": "Chapter 159: Come, Let Me Touch It—The Spy Within a Spy",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-159-159-come-let-me-touch-itthe.html",
-        "date": "2026-11-14T02:20:00+00:00"
+        "num": 49,
+        "title": "Chapter 49: Chu Yunmian's Wonderful Journey: The Sorrow of the Ancestor Disciple-Bane",
+        "chapterTitle": "Chapter 49: Chu Yunmian's Wonderful Journey: The Sorrow of the Ancestor Disciple-Bane",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 49: Chu Yunmian's Wonderful Journey: The Sorrow of the Ancestor Disciple-Bane",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-49-49-chu-yunmians-wonderful.html",
+        "date": "2026-10-23T02:20:00+00:00"
       },
       {
-        "num": 158,
-        "title": "Chapter 158: A Pack of Dogs—Slackers in Training Become Brothers in the Soul-Summoning Banner",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-158-158-pack-of-dogsslackers-in.html",
-        "date": "2026-11-13T22:20:00+00:00"
+        "num": 48,
+        "title": "Chapter 48: The Ultimate Heartthrob Is... Me? Wait, I’m Being Kidnapped!",
+        "chapterTitle": "Chapter 48: The Ultimate Heartthrob Is... Me? Wait, I’m Being Kidnapped!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 48: The Ultimate Heartthrob Is... Me? Wait, I’m Being Kidnapped!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-48-ultimate-heartthrob-is-me.html",
+        "date": "2026-10-22T22:20:00+00:00"
       },
       {
-        "num": 157,
-        "title": "Chapter 157: Senior Brother Zhou Captured—Clearing the Trial and Reaching the Top of the Rankings",
-        "link": "https://en.novelskyworld.com/2026/12/chapter-157-157-senior-brother-zhou.html",
-        "date": "2026-11-13T17:20:00+00:00"
+        "num": 47,
+        "title": "Chapter 47: The Meaning of a Heartthrob—I, I Like You Too...",
+        "chapterTitle": "Chapter 47: The Meaning of a Heartthrob—I, I Like You Too...",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 47: The Meaning of a Heartthrob—I, I Like You Too...",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-47-meaning-of-heartthrobi-i.html",
+        "date": "2026-10-22T17:20:00+00:00"
+      },
+      {
+        "num": 46,
+        "title": "Chapter 46: Mianmian’s Unyielding Fist—Granting You the Sleep of an Infant",
+        "chapterTitle": "Chapter 46: Mianmian’s Unyielding Fist—Granting You the Sleep of an Infant",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 46: Mianmian’s Unyielding Fist—Granting You the Sleep of an Infant",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-46-mianmians-unyielding.html",
+        "date": "2026-10-22T12:20:00+00:00"
+      },
+      {
+        "num": 45,
+        "title": "Chapter 45: What Is Called Double Standards—The Workaholic Versus the Workaholic, and the Pervert Wins",
+        "chapterTitle": "Chapter 45: What Is Called Double Standards—The Workaholic Versus the Workaholic, and the Pervert Wins",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 45: What Is Called Double Standards—The Workaholic Versus the Workaholic, and the Pervert Wins",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-45-45-what-is-called-double.html",
+        "date": "2026-10-22T07:20:00+00:00"
+      },
+      {
+        "num": 44,
+        "title": "Chapter 44: Better Yet, Practice the Sword—Goodbye! Never See You Again!",
+        "chapterTitle": "Chapter 44: Better Yet, Practice the Sword—Goodbye! Never See You Again!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 44: Better Yet, Practice the Sword—Goodbye! Never See You Again!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-44-44-better-yet-practice.html",
+        "date": "2026-10-22T02:20:00+00:00"
+      },
+      {
+        "num": 43,
+        "title": "Chapter 43: A Gathering of Eccentrics—When the Melancholic Overlord Meets the Overly Earnest",
+        "chapterTitle": "Chapter 43: A Gathering of Eccentrics—When the Melancholic Overlord Meets the Overly Earnest",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 43: A Gathering of Eccentrics—When the Melancholic Overlord Meets the Overly Earnest",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-43-43-gathering-of.html",
+        "date": "2026-10-21T22:20:00+00:00"
+      },
+      {
+        "num": 42,
+        "title": "Chapter 42: Whose Green Hat, Whose Tears—Never Pick Up a Man on the Road!",
+        "chapterTitle": "Chapter 42: Whose Green Hat, Whose Tears—Never Pick Up a Man on the Road!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 42: Whose Green Hat, Whose Tears—Never Pick Up a Man on the Road!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-42-whose-green-hat-whose.html",
+        "date": "2026-10-21T17:20:00+00:00"
+      },
+      {
+        "num": 41,
+        "title": "Chapter 41: Real-Time Gossip—Who Is Whose Son?",
+        "chapterTitle": "Chapter 41: Real-Time Gossip—Who Is Whose Son?",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 41: Real-Time Gossip—Who Is Whose Son?",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-41-41-real-time-gossipwho-is.html",
+        "date": "2026-10-21T12:20:00+00:00"
+      },
+      {
+        "num": 40,
+        "title": "Chapter 40: Summoning the Sword Sect, Rumors of My Death",
+        "chapterTitle": "Chapter 40: Summoning the Sword Sect, Rumors of My Death",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 40: Summoning the Sword Sect, Rumors of My Death",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-40-40-summoning-sword-sect.html",
+        "date": "2026-10-21T07:20:00+00:00"
+      },
+      {
+        "num": 39,
+        "title": "Chapter 39: What Brings Junior Sister Chu Here?",
+        "chapterTitle": "Chapter 39: What Brings Junior Sister Chu Here?",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 39: What Brings Junior Sister Chu Here?",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-39-39-what-brings-junior-sister.html",
+        "date": "2026-10-21T02:20:00+00:00"
+      },
+      {
+        "num": 38,
+        "title": "Chapter 38: The Misfortunes of Yan and Gu — Physician Tang’s Indictment",
+        "chapterTitle": "Chapter 38: The Misfortunes of Yan and Gu — Physician Tang’s Indictment",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 38: The Misfortunes of Yan and Gu — Physician Tang’s Indictment",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-38-misfortunes-of-yan-and-gu.html",
+        "date": "2026-10-20T22:20:00+00:00"
+      },
+      {
+        "num": 37,
+        "title": "Chapter 37: A First Step Toward Infamy",
+        "chapterTitle": "Chapter 37: A First Step Toward Infamy",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 37: A First Step Toward Infamy",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-37-37-first-step-toward-infamy.html",
+        "date": "2026-10-20T17:20:00+00:00"
+      },
+      {
+        "num": 36,
+        "title": "Chapter 36: A Straight Man’s Greatest Ambition—I Want to Install a Little Brother!",
+        "chapterTitle": "Chapter 36: A Straight Man’s Greatest Ambition—I Want to Install a Little Brother!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 36: A Straight Man’s Greatest Ambition—I Want to Install a Little Brother!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-36-straight-mans-greatest.html",
+        "date": "2026-10-20T12:20:00+00:00"
+      },
+      {
+        "num": 35,
+        "title": "Chapter 35: A Bit Absurd But Acceptable: The Glacial Frost-Wing Hatches",
+        "chapterTitle": "Chapter 35: A Bit Absurd But Acceptable: The Glacial Frost-Wing Hatches",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 35: A Bit Absurd But Acceptable: The Glacial Frost-Wing Hatches",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-35-35-bit-absurd-but-acceptable.html",
+        "date": "2026-10-20T07:20:00+00:00"
+      },
+      {
+        "num": 34,
+        "title": "Chapter 34: The Primordial Soul-Devouring Bee—Little Shi’s Volatile Temper",
+        "chapterTitle": "Chapter 34: The Primordial Soul-Devouring Bee—Little Shi’s Volatile Temper",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 34: The Primordial Soul-Devouring Bee—Little Shi’s Volatile Temper",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-34-primordial-soul-devouring.html",
+        "date": "2026-10-20T02:20:00+00:00"
+      },
+      {
+        "num": 33,
+        "title": "Chapter 33: The Fiancee's Secret—Pulling It Out Makes It Bigger Than Yours",
+        "chapterTitle": "Chapter 33: The Fiancee's Secret—Pulling It Out Makes It Bigger Than Yours",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 33: The Fiancee's Secret—Pulling It Out Makes It Bigger Than Yours",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-33-33-fiancees-secretpulling-it.html",
+        "date": "2026-10-19T22:20:00+00:00"
+      },
+      {
+        "num": 32,
+        "title": "Chapter 32: Moral Decay and a Troubled Fate—The Pure Love War God Slays a Cuckolder with Every Sword Stroke",
+        "chapterTitle": "Chapter 32: Moral Decay and a Troubled Fate—The Pure Love War God Slays a Cuckolder with Every Sword Stroke",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 32: Moral Decay and a Troubled Fate—The Pure Love War God Slays a Cuckolder with Every Sword Stroke",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-32-32-moral-decay-and-troubled.html",
+        "date": "2026-10-19T17:20:00+00:00"
+      },
+      {
+        "num": 31,
+        "title": "Chapter 31: Playing the Role of a Filthy Rich Spender—A Single Word: Awesome",
+        "chapterTitle": "Chapter 31: Playing the Role of a Filthy Rich Spender—A Single Word: Awesome",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 31: Playing the Role of a Filthy Rich Spender—A Single Word: Awesome",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-31-31-playing-role-of-filthy.html",
+        "date": "2026-10-19T12:20:00+00:00"
+      },
+      {
+        "num": 30,
+        "title": "Chapter 30: The Dark Phoenix Immortal Palace Is Hollow—In Health and in Wealth",
+        "chapterTitle": "Chapter 30: The Dark Phoenix Immortal Palace Is Hollow—In Health and in Wealth",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 30: The Dark Phoenix Immortal Palace Is Hollow—In Health and in Wealth",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-30-30-dark-phoenix-immortal.html",
+        "date": "2026-10-19T07:20:00+00:00"
+      },
+      {
+        "num": 29,
+        "title": "Chapter 29: High Stakes in the Immortal Realm—Deeper Than They Appear",
+        "chapterTitle": "Chapter 29: High Stakes in the Immortal Realm—Deeper Than They Appear",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 29: High Stakes in the Immortal Realm—Deeper Than They Appear",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-29-high-stakes-in-immortal.html",
+        "date": "2026-10-19T02:20:00+00:00"
+      },
+      {
+        "num": 28,
+        "title": "Chapter 28: Top-Tier VIP Treatment—The Dark Phoenix Immortal Palace is Furious",
+        "chapterTitle": "Chapter 28: Top-Tier VIP Treatment—The Dark Phoenix Immortal Palace is Furious",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 28: Top-Tier VIP Treatment—The Dark Phoenix Immortal Palace is Furious",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-28-28-top-tier-vip-treatmentthe.html",
+        "date": "2026-10-18T22:20:00+00:00"
+      },
+      {
+        "num": 27,
+        "title": "Chapter 27: The Renowned Yan Jiuge and the Unknown Chu Yunmian",
+        "chapterTitle": "Chapter 27: The Renowned Yan Jiuge and the Unknown Chu Yunmian",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 27: The Renowned Yan Jiuge and the Unknown Chu Yunmian",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-27-27-renowned-yan-jiuge-and.html",
+        "date": "2026-10-18T17:20:00+00:00"
+      },
+      {
+        "num": 26,
+        "title": "Chapter 26: A Slap in the Making—The Senior Sister Hasn't Been a Wrathful Saber Cultivator for Years",
+        "chapterTitle": "Chapter 26: A Slap in the Making—The Senior Sister Hasn't Been a Wrathful Saber Cultivator for Years",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 26: A Slap in the Making—The Senior Sister Hasn't Been a Wrathful Saber Cultivator for Years",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-26-26-slap-in-makingthe-senior.html",
+        "date": "2026-10-18T12:20:00+00:00"
+      },
+      {
+        "num": 25,
+        "title": "Chapter 25: Mental Health Matters — Cultivators Go Insane in the Blink of an Eye",
+        "chapterTitle": "Chapter 25: Mental Health Matters — Cultivators Go Insane in the Blink of an Eye",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 25: Mental Health Matters — Cultivators Go Insane in the Blink of an Eye",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-25-25-mental-health-matters.html",
+        "date": "2026-10-18T07:20:00+00:00"
+      },
+      {
+        "num": 24,
+        "title": "Chapter 24: The Wolf and the Bee—Xie Xuan’s Ominous Encounter",
+        "chapterTitle": "Chapter 24: The Wolf and the Bee—Xie Xuan’s Ominous Encounter",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 24: The Wolf and the Bee—Xie Xuan’s Ominous Encounter",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-24-24-wolf-and-beexie-xuans.html",
+        "date": "2026-10-18T02:20:00+00:00"
+      },
+      {
+        "num": 23,
+        "title": "Chapter 23: Setting Out for Zhegu City—A Single Glance in the Crowd, and She Nearly Lost Her Shirt",
+        "chapterTitle": "Chapter 23: Setting Out for Zhegu City—A Single Glance in the Crowd, and She Nearly Lost Her Shirt",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 23: Setting Out for Zhegu City—A Single Glance in the Crowd, and She Nearly Lost Her Shirt",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-23-23-setting-out-for-zhegu.html",
+        "date": "2026-10-17T22:20:00+00:00"
+      },
+      {
+        "num": 22,
+        "title": "Chapter 22: Wielding a Spirit Sword to Control Sword Cultivators—You've Successfully Caught My Attention",
+        "chapterTitle": "Chapter 22: Wielding a Spirit Sword to Control Sword Cultivators—You've Successfully Caught My Attention",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 22: Wielding a Spirit Sword to Control Sword Cultivators—You've Successfully Caught My Attention",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-22-22-wielding-spirit-sword-to.html",
+        "date": "2026-10-17T13:20:00+00:00"
+      },
+      {
+        "num": 21,
+        "title": "Chapter 21: Never Bully the Poor—The Ultimate Trope!",
+        "chapterTitle": "Chapter 21: Never Bully the Poor—The Ultimate Trope!",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 21: Never Bully the Poor—The Ultimate Trope!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-21-never-bully-poorthe-ultimate.html",
+        "date": "2026-10-17T06:00:00+00:00"
+      },
+      {
+        "num": 20,
+        "title": "Chapter 20: Hidden Merits and Bold Maneuvers: Senior Sister Chu’s Ruthless Recruitment",
+        "chapterTitle": "Chapter 20: Hidden Merits and Bold Maneuvers: Senior Sister Chu’s Ruthless Recruitment",
+        "fullTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails - Chapter 20: Hidden Merits and Bold Maneuvers: Senior Sister Chu’s Ruthless Recruitment",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-20-20-hidden-merits-and-bold.html",
+        "date": "2026-10-16T13:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
+    "chapters": [
+      {
+        "num": 56,
+        "title": "Chapter 56: The Laureate Courier, Swift in Every Delivery",
+        "chapterTitle": "Chapter 56: The Laureate Courier, Swift in Every Delivery",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 56: The Laureate Courier, Swift in Every Delivery",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-56-laureate-courier-swift-in.html",
+        "date": "2026-10-24T12:00:00+00:00"
+      },
+      {
+        "num": 55,
+        "title": "Chapter 55: I Greet the Passing Guests with the Spring Breeze, You Carry the Autumn Waters to Seek Work",
+        "chapterTitle": "Chapter 55: I Greet the Passing Guests with the Spring Breeze, You Carry the Autumn Waters to Seek Work",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 55: I Greet the Passing Guests with the Spring Breeze, You Carry the Autumn Waters to Seek Work",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-55-i-greet-passing-guests-with.html",
+        "date": "2026-10-24T07:00:00+00:00"
+      },
+      {
+        "num": 54,
+        "title": "Chapter 54: The Spring Breeze and I Are Mere Passersby",
+        "chapterTitle": "Chapter 54: The Spring Breeze and I Are Mere Passersby",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 54: The Spring Breeze and I Are Mere Passersby",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-54-spring-breeze-and-i-are-mere.html",
+        "date": "2026-10-24T02:00:00+00:00"
+      },
+      {
+        "num": 53,
+        "title": "Chapter 53: Riding the Public Carriage to the Courtesan House: Save Where You Must, Spend Where You Can",
+        "chapterTitle": "Chapter 53: Riding the Public Carriage to the Courtesan House: Save Where You Must, Spend Where You Can",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 53: Riding the Public Carriage to the Courtesan House: Save Where You Must, Spend Where You Can",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-53-riding-public-carriage-to.html",
+        "date": "2026-10-23T22:00:00+00:00"
+      },
+      {
+        "num": 52,
+        "title": "Chapter 52: All of You Want Me Dead",
+        "chapterTitle": "Chapter 52: All of You Want Me Dead",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 52: All of You Want Me Dead",
+        "link": "https://en.novelskyworld.com/2026/11/chapter-52-all-of-you-want-me-dead.html",
+        "date": "2026-10-23T17:00:00+00:00"
+      },
+      {
+        "num": 51,
+        "title": "Chapter 51: The Chrysanthemums Have Bloomed, Awaiting Your Arrival",
+        "chapterTitle": "Chapter 51: The Chrysanthemums Have Bloomed, Awaiting Your Arrival",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 51: The Chrysanthemums Have Bloomed, Awaiting Your Arrival",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-51-chrysanthemums-have-bloomed.html",
+        "date": "2026-10-23T12:00:00+00:00"
+      },
+      {
+        "num": 50,
+        "title": "Chapter 50: He Is Not Worthless",
+        "chapterTitle": "Chapter 50: He Is Not Worthless",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 50: He Is Not Worthless",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-50-he-is-not-worthless.html",
+        "date": "2026-10-23T07:00:00+00:00"
+      },
+      {
+        "num": 49,
+        "title": "Chapter 49: Severing the Lifeline",
+        "chapterTitle": "Chapter 49: Severing the Lifeline",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 49: Severing the Lifeline",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-49-severing-lifeline.html",
+        "date": "2026-10-23T02:00:00+00:00"
+      },
+      {
+        "num": 48,
+        "title": "Chapter 48: Who Is the Real Beast?",
+        "chapterTitle": "Chapter 48: Who Is the Real Beast?",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 48: Who Is the Real Beast?",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-48-who-is-real-beast.html",
+        "date": "2026-10-22T22:00:00+00:00"
+      },
+      {
+        "num": 47,
+        "title": "Chapter 47: The Laureate’s Carriage Line No. 1",
+        "chapterTitle": "Chapter 47: The Laureate’s Carriage Line No. 1",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 47: The Laureate’s Carriage Line No. 1",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-47-laureates-carriage-line-no-1.html",
+        "date": "2026-10-22T17:00:00+00:00"
+      },
+      {
+        "num": 46,
+        "title": "Chapter 46: Bastard",
+        "chapterTitle": "Chapter 46: Bastard",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 46: Bastard",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-46-bastard.html",
+        "date": "2026-10-22T12:00:00+00:00"
+      },
+      {
+        "num": 45,
+        "title": "Chapter 45: A Mutual Understanding",
+        "chapterTitle": "Chapter 45: A Mutual Understanding",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 45: A Mutual Understanding",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-45-mutual-understanding.html",
+        "date": "2026-10-22T07:00:00+00:00"
+      },
+      {
+        "num": 44,
+        "title": "Chapter 44: The Dog-Butchering Blade",
+        "chapterTitle": "Chapter 44: The Dog-Butchering Blade",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 44: The Dog-Butchering Blade",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-44-dog-butchering-blade.html",
+        "date": "2026-10-22T02:00:00+00:00"
+      },
+      {
+        "num": 43,
+        "title": "Chapter 43: ruptured entrails and torn bellies, a Deserved End!",
+        "chapterTitle": "Chapter 43: ruptured entrails and torn bellies, a Deserved End!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 43: ruptured entrails and torn bellies, a Deserved End!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-43-ruptured-entrails-and-torn.html",
+        "date": "2026-10-21T22:00:00+00:00"
+      },
+      {
+        "num": 42,
+        "title": "Chapter 42: Sharing in the Glory",
+        "chapterTitle": "Chapter 42: Sharing in the Glory",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 42: Sharing in the Glory",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-42-sharing-in-glory.html",
+        "date": "2026-10-21T17:00:00+00:00"
+      },
+      {
+        "num": 41,
+        "title": "Chapter 41: Eagerly Awaiting!",
+        "chapterTitle": "Chapter 41: Eagerly Awaiting!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 41: Eagerly Awaiting!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-41-eagerly-awaiting.html",
+        "date": "2026-10-21T12:00:00+00:00"
+      },
+      {
+        "num": 40,
+        "title": "Chapter 40: Madam Hong",
+        "chapterTitle": "Chapter 40: Madam Hong",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 40: Madam Hong",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-40-madam-hong.html",
+        "date": "2026-10-21T07:00:00+00:00"
+      },
+      {
+        "num": 39,
+        "title": "Chapter 39: A Laureate Is Born in Our House!",
+        "chapterTitle": "Chapter 39: A Laureate Is Born in Our House!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 39: A Laureate Is Born in Our House!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-39-laureate-is-born-in-our-house.html",
+        "date": "2026-10-21T02:00:00+00:00"
+      },
+      {
+        "num": 38,
+        "title": "Chapter 38: A Twenty-Thousand-Word Policy Essay",
+        "chapterTitle": "Chapter 38: A Twenty-Thousand-Word Policy Essay",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 38: A Twenty-Thousand-Word Policy Essay",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-38-twenty-thousand-word-policy.html",
+        "date": "2026-10-20T22:00:00+00:00"
+      },
+      {
+        "num": 37,
+        "title": "Chapter 37: Never Sparing Pariah Soil, Leaping the Dragon's Gate to Soar",
+        "chapterTitle": "Chapter 37: Never Sparing Pariah Soil, Leaping the Dragon's Gate to Soar",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 37: Never Sparing Pariah Soil, Leaping the Dragon's Gate to Soar",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-37-never-sparing-pariah-soil.html",
+        "date": "2026-10-20T17:00:00+00:00"
+      },
+      {
+        "num": 36,
+        "title": "Chapter 36: Then Allow Me to Tell You!",
+        "chapterTitle": "Chapter 36: Then Allow Me to Tell You!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 36: Then Allow Me to Tell You!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-36-then-allow-me-to-tell-you.html",
+        "date": "2026-10-20T12:00:00+00:00"
+      },
+      {
+        "num": 35,
+        "title": "Chapter 35: Get Lost!",
+        "chapterTitle": "Chapter 35: Get Lost!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 35: Get Lost!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-35-get-lost.html",
+        "date": "2026-10-20T07:00:00+00:00"
+      },
+      {
+        "num": 34,
+        "title": "Chapter 34: Save Your Breath, I Will Not Be Fooled Again!",
+        "chapterTitle": "Chapter 34: Save Your Breath, I Will Not Be Fooled Again!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 34: Save Your Breath, I Will Not Be Fooled Again!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-34-save-your-breath-i-will-not.html",
+        "date": "2026-10-20T02:00:00+00:00"
+      },
+      {
+        "num": 33,
+        "title": "Chapter 33: Never Returning",
+        "chapterTitle": "Chapter 33: Never Returning",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 33: Never Returning",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-33-never-returning.html",
+        "date": "2026-10-19T22:00:00+00:00"
+      },
+      {
+        "num": 32,
+        "title": "Chapter 32: A Son Curses His Mother",
+        "chapterTitle": "Chapter 32: A Son Curses His Mother",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 32: A Son Curses His Mother",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-32-son-curses-his-mother.html",
+        "date": "2026-10-19T17:00:00+00:00"
+      },
+      {
+        "num": 31,
+        "title": "Chapter 31: Cheers to Our Tomorrow!",
+        "chapterTitle": "Chapter 31: Cheers to Our Tomorrow!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 31: Cheers to Our Tomorrow!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-31-cheers-to-our-tomorrow.html",
+        "date": "2026-10-19T12:00:00+00:00"
+      },
+      {
+        "num": 30,
+        "title": "Chapter 30: The Jing'an Poetry Collection",
+        "chapterTitle": "Chapter 30: The Jing'an Poetry Collection",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 30: The Jing'an Poetry Collection",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-30-jingan-poetry-collection.html",
+        "date": "2026-10-19T07:00:00+00:00"
+      },
+      {
+        "num": 29,
+        "title": "Chapter 29: Revered as a Divine Being",
+        "chapterTitle": "Chapter 29: Revered as a Divine Being",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 29: Revered as a Divine Being",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-29-revered-as-divine-being.html",
+        "date": "2026-10-19T02:00:00+00:00"
+      },
+      {
+        "num": 28,
+        "title": "Chapter 28: No Matter Where I Go, I Will Always Bring You With Me",
+        "chapterTitle": "Chapter 28: No Matter Where I Go, I Will Always Bring You With Me",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 28: No Matter Where I Go, I Will Always Bring You With Me",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-28-no-matter-where-i-go-i-will.html",
+        "date": "2026-10-18T22:00:00+00:00"
+      },
+      {
+        "num": 27,
+        "title": "Chapter 27: Fallen Petals Are Not Heartless Things; Turning to Spring Mud, They Nourish the Flowers Anew",
+        "chapterTitle": "Chapter 27: Fallen Petals Are Not Heartless Things; Turning to Spring Mud, They Nourish the Flowers Anew",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 27: Fallen Petals Are Not Heartless Things; Turning to Spring Mud, They Nourish the Flowers Anew",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-27-fallen-petals-are-not.html",
+        "date": "2026-10-18T17:00:00+00:00"
+      },
+      {
+        "num": 26,
+        "title": "Chapter 26: Turned Away at the Door",
+        "chapterTitle": "Chapter 26: Turned Away at the Door",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 26: Turned Away at the Door",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-26-turned-away-at-door.html",
+        "date": "2026-10-18T12:00:00+00:00"
+      },
+      {
+        "num": 25,
+        "title": "Chapter 25: Seizing the Opportunity",
+        "chapterTitle": "Chapter 25: Seizing the Opportunity",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 25: Seizing the Opportunity",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-25-seizing-opportunity.html",
+        "date": "2026-10-18T07:00:00+00:00"
+      },
+      {
+        "num": 24,
+        "title": "Chapter 24: Trading Broken Bowls and Jars for Silver",
+        "chapterTitle": "Chapter 24: Trading Broken Bowls and Jars for Silver",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 24: Trading Broken Bowls and Jars for Silver",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-24-trading-broken-bowls-and.html",
+        "date": "2026-10-18T02:00:00+00:00"
+      },
+      {
+        "num": 23,
+        "title": "Chapter 23: If You Want to Get Rich, Go to the Gambling Den",
+        "chapterTitle": "Chapter 23: If You Want to Get Rich, Go to the Gambling Den",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 23: If You Want to Get Rich, Go to the Gambling Den",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-23-if-you-want-to-get-rich-go.html",
+        "date": "2026-10-17T22:00:00+00:00"
+      },
+      {
+        "num": 22,
+        "title": "Chapter 22: a staged performance",
+        "chapterTitle": "Chapter 22: a staged performance",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 22: a staged performance",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-22-staged-performance.html",
+        "date": "2026-10-17T13:00:00+00:00"
+      },
+      {
+        "num": 21,
+        "title": "Chapter 21: What Else Could He Possibly Do!",
+        "chapterTitle": "Chapter 21: What Else Could He Possibly Do!",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 21: What Else Could He Possibly Do!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-21-what-else-could-he-possibly.html",
+        "date": "2026-10-17T06:00:00+00:00"
+      },
+      {
+        "num": 20,
+        "title": "Chapter 20: Borrowing a Glimmer of Light",
+        "chapterTitle": "Chapter 20: Borrowing a Glimmer of Light",
+        "fullTitle": "After Severing Ties, The Prince’s Family Regrets It For Life - Chapter 20: Borrowing a Glimmer of Light",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-20-borrowing-glimmer-of-light.html",
+        "date": "2026-10-16T13:00:00+00:00"
       }
     ]
   },
@@ -144,62 +616,130 @@
       {
         "num": 16,
         "title": "Chapter 16: That Is a Born Sword Bone",
+        "chapterTitle": "Chapter 16: That Is a Born Sword Bone",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 16: That Is a Born Sword Bone",
         "link": "https://en.novelskyworld.com/2026/10/chapter-16-16-that-is-born-sword-bone.html",
         "date": "2026-10-20T02:40:00+00:00"
       },
       {
         "num": 15,
         "title": "Chapter 15: The Multiplication Table",
+        "chapterTitle": "Chapter 15: The Multiplication Table",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 15: The Multiplication Table",
         "link": "https://en.novelskyworld.com/2026/10/chapter-15-15-multiplication-table.html",
         "date": "2026-10-19T22:40:00+00:00"
       },
       {
         "num": 14,
         "title": "Chapter 14: Rich, Not Reckless",
+        "chapterTitle": "Chapter 14: Rich, Not Reckless",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 14: Rich, Not Reckless",
         "link": "https://en.novelskyworld.com/2026/10/chapter-14-14-rich-not-reckless.html",
         "date": "2026-10-19T17:40:00+00:00"
       },
       {
         "num": 13,
         "title": "Chapter 13: First Clash with the All-Captivating Female Lead",
+        "chapterTitle": "Chapter 13: First Clash with the All-Captivating Female Lead",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 13: First Clash with the All-Captivating Female Lead",
         "link": "https://en.novelskyworld.com/2026/10/chapter-13-first-clash-with-all.html",
         "date": "2026-10-19T12:40:00+00:00"
       },
       {
         "num": 12,
         "title": "Chapter 12: All Her Handiwork",
+        "chapterTitle": "Chapter 12: All Her Handiwork",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 12: All Her Handiwork",
         "link": "https://en.novelskyworld.com/2026/10/chapter-12-all-her-handiwork.html",
         "date": "2026-10-19T07:40:00+00:00"
       },
       {
         "num": 11,
         "title": "Chapter 11: Driven Half-Mad by Junior Sister in Changming Sect",
+        "chapterTitle": "Chapter 11: Driven Half-Mad by Junior Sister in Changming Sect",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 11: Driven Half-Mad by Junior Sister in Changming Sect",
         "link": "https://en.novelskyworld.com/2026/10/chapter-11-11-driven-half-mad-by-junior.html",
         "date": "2026-10-19T02:40:00+00:00"
       },
       {
         "num": 10,
         "title": "Chapter 10: No More Sleep, She's Going to Fleece Some Sheep",
+        "chapterTitle": "Chapter 10: No More Sleep, She's Going to Fleece Some Sheep",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 10: No More Sleep, She's Going to Fleece Some Sheep",
         "link": "https://en.novelskyworld.com/2026/10/chapter-10-no-more-sleep-shes-going-to.html",
         "date": "2026-10-18T22:40:00+00:00"
       },
       {
         "num": 9,
         "title": "Chapter 9: The More You Slack Off, the Luckier You Get",
+        "chapterTitle": "Chapter 9: The More You Slack Off, the Luckier You Get",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 9: The More You Slack Off, the Luckier You Get",
         "link": "https://en.novelskyworld.com/2026/10/chapter-9-more-you-slack-off-luckier.html",
         "date": "2026-10-18T17:40:00+00:00"
       },
       {
         "num": 8,
         "title": "Chapter 8: That Little Junior Sister of Yours Is Stirring Up Trouble Again",
+        "chapterTitle": "Chapter 8: That Little Junior Sister of Yours Is Stirring Up Trouble Again",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 8: That Little Junior Sister of Yours Is Stirring Up Trouble Again",
         "link": "https://en.novelskyworld.com/2026/10/chapter-8-that-little-junior-sister-of.html",
         "date": "2026-10-18T12:40:00+00:00"
       },
       {
         "num": 7,
         "title": "Chapter 7: If You Do Not Enter Hell, Who Will?",
+        "chapterTitle": "Chapter 7: If You Do Not Enter Hell, Who Will?",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 7: If You Do Not Enter Hell, Who Will?",
         "link": "https://en.novelskyworld.com/2026/10/chapter-7-if-you-do-not-enter-hell-who.html",
         "date": "2026-10-18T07:40:00+00:00"
+      },
+      {
+        "num": 6,
+        "title": "Chapter 6: Fight, Fight, Fight!",
+        "chapterTitle": "Chapter 6: Fight, Fight, Fight!",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 6: Fight, Fight, Fight!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-6-fight-fight-fight.html",
+        "date": "2026-10-18T02:40:00+00:00"
+      },
+      {
+        "num": 5,
+        "title": "Chapter 5: Changming Sect Has Given Up on Life",
+        "chapterTitle": "Chapter 5: Changming Sect Has Given Up on Life",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 5: Changming Sect Has Given Up on Life",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-5-changming-sect-has-given-up.html",
+        "date": "2026-10-17T22:40:00+00:00"
+      },
+      {
+        "num": 4,
+        "title": "Chapter 4: Can I Touch Your Sword?",
+        "chapterTitle": "Chapter 4: Can I Touch Your Sword?",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 4: Can I Touch Your Sword?",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-4-can-i-touch-your-sword.html",
+        "date": "2026-10-17T20:00:00+00:00"
+      },
+      {
+        "num": 3,
+        "title": "Chapter 3: Looks Like Something Fell From the Sky",
+        "chapterTitle": "Chapter 3: Looks Like Something Fell From the Sky",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 3: Looks Like Something Fell From the Sky",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-3-looks-like-something-fell.html",
+        "date": "2026-10-17T17:40:00+00:00"
+      },
+      {
+        "num": 2,
+        "title": "Chapter 2: Finding a Sect to Slack Off In",
+        "chapterTitle": "Chapter 2: Finding a Sect to Slack Off In",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 2: Finding a Sect to Slack Off In",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-2-finding-sect-to-slack-off-in.html",
+        "date": "2026-10-17T15:00:00+00:00"
+      },
+      {
+        "num": 1,
+        "title": "Chapter 1: This Inner Sect Is Far Too Lofty for Me, Farewell!",
+        "chapterTitle": "Chapter 1: This Inner Sect Is Far Too Lofty for Me, Farewell!",
+        "fullTitle": "I Saved the Entire Sect by Slacking Off - Chapter 1: This Inner Sect Is Far Too Lofty for Me, Farewell!",
+        "link": "https://en.novelskyworld.com/2026/10/chapter-1-this-inner-sect-is-far-too.html",
+        "date": "2026-10-17T09:00:00+00:00"
       }
     ]
   }
