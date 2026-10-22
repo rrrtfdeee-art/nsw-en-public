@@ -1,5 +1,365 @@
 [
   {
+    "uid": "3_75",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 75,
+    "fullTitle": "Chapter 75: A Phoenix?",
+    "chapterTitle": "Chapter 75: A Phoenix?",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-75-phoenix.html",
+    "date": "2026-10-31T22:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_93",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 93,
+    "fullTitle": "Chapter 93: Real Men Never Look Back at Explosions—Holy Crap, It's Lit!",
+    "chapterTitle": "Chapter 93: Real Men Never Look Back at Explosions—Holy Crap, It's Lit!",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-93-93-real-men-never-look-back.html",
+    "date": "2026-10-31T22:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_93",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 93,
+    "fullTitle": "Chapter 93: Blood Ties Matter Less Than Silver",
+    "chapterTitle": "Chapter 93: Blood Ties Matter Less Than Silver",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-93-blood-ties-matter-less-than.html",
+    "date": "2026-10-31T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_74",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 74,
+    "fullTitle": "Chapter 74: Will This Thunder Ever Stop?",
+    "chapterTitle": "Chapter 74: Will This Thunder Ever Stop?",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-74-will-this-thunder-ever-stop.html",
+    "date": "2026-10-31T17:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_92",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 92,
+    "fullTitle": "Chapter 92: A Second Encounter with the Merfolk—One More Word and I’ll Need a Censor",
+    "chapterTitle": "Chapter 92: A Second Encounter with the Merfolk—One More Word and I’ll Need a Censor",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-92-92-second-encounter-with.html",
+    "date": "2026-10-31T17:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_92",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 92,
+    "fullTitle": "Chapter 92: If You Demand It, I Shall Kneel",
+    "chapterTitle": "Chapter 92: If You Demand It, I Shall Kneel",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-92-if-you-demand-it-i-shall.html",
+    "date": "2026-10-31T17:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_73",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 73,
+    "fullTitle": "Chapter 73: Don't You Want to See Ye Qiao's Talisman Skills?",
+    "chapterTitle": "Chapter 73: Don't You Want to See Ye Qiao's Talisman Skills?",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-73-dont-you-want-to-see-ye.html",
+    "date": "2026-10-31T12:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_91",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 91,
+    "fullTitle": "Chapter 91: Yan Jiuge the Scavenger—Finders Keepers!",
+    "chapterTitle": "Chapter 91: Yan Jiuge the Scavenger—Finders Keepers!",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-91-yan-jiuge-scavengerfinders.html",
+    "date": "2026-10-31T12:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_91",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 91,
+    "fullTitle": "Chapter 91: Dignitaries and Nobles",
+    "chapterTitle": "Chapter 91: Dignitaries and Nobles",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-91-dignitaries-and-nobles.html",
+    "date": "2026-10-31T12:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_72",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 72,
+    "fullTitle": "Chapter 72: The Shadow-Recording Stone",
+    "chapterTitle": "Chapter 72: The Shadow-Recording Stone",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-72-shadow-recording-stone.html",
+    "date": "2026-10-31T07:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_90",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 90,
+    "fullTitle": "Chapter 90: The Accidental Genius and the Faithless Blade",
+    "chapterTitle": "Chapter 90: The Accidental Genius and the Faithless Blade",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-90-90-accidental-genius-and.html",
+    "date": "2026-10-31T07:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_90",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 90,
+    "fullTitle": "Chapter 90: Royal Royal Royal Royal Royal Father, I Am Proud of You!",
+    "chapterTitle": "Chapter 90: Royal Royal Royal Royal Royal Father, I Am Proud of You!",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-90-royal-royal-royal-royal.html",
+    "date": "2026-10-31T07:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_71",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 71,
+    "fullTitle": "Chapter 71: Villains Always Strike Last",
+    "chapterTitle": "Chapter 71: Villains Always Strike Last",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-71-villains-always-strike-last.html",
+    "date": "2026-10-31T02:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_89",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 89,
+    "fullTitle": "Chapter 89: Infiltrating House Liu—So I Can Be a Man Again, Right?",
+    "chapterTitle": "Chapter 89: Infiltrating House Liu—So I Can Be a Man Again, Right?",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-89-infiltrating-house-liuso-i.html",
+    "date": "2026-10-31T02:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_89",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 89,
+    "fullTitle": "Chapter 89: The Sovereign's Gambit: Would You Become My Imperial Son?",
+    "chapterTitle": "Chapter 89: The Sovereign's Gambit: Would You Become My Imperial Son?",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-89-sovereigns-gambit-would-you.html",
+    "date": "2026-10-31T02:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_70",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 70,
+    "fullTitle": "Chapter 70: Another Victim of the Con",
+    "chapterTitle": "Chapter 70: Another Victim of the Con",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-70-another-victim-of-con.html",
+    "date": "2026-10-30T22:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_88",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 88,
+    "fullTitle": "Chapter 88: Wisdom Like a Passing Cloud — A Den of Scheming Rogues",
+    "chapterTitle": "Chapter 88: Wisdom Like a Passing Cloud — A Den of Scheming Rogues",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-88-wisdom-like-passing-cloud.html",
+    "date": "2026-10-30T22:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_88",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 88,
+    "fullTitle": "Chapter 88: The Dandelion Is Bitter!",
+    "chapterTitle": "Chapter 88: The Dandelion Is Bitter!",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-88-dandelion-is-bitter.html",
+    "date": "2026-10-30T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_69",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 69,
+    "fullTitle": "Chapter 69: Truly Terrifying!",
+    "chapterTitle": "Chapter 69: Truly Terrifying!",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-69-truly-terrifying.html",
+    "date": "2026-10-30T17:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_87",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 87,
+    "fullTitle": "Chapter 87: Feast Away—For I Am the Star-Scion’s Father",
+    "chapterTitle": "Chapter 87: Feast Away—For I Am the Star-Scion’s Father",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-87-feast-awayfor-i-am-star.html",
+    "date": "2026-10-30T17:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_87",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 87,
+    "fullTitle": "Chapter 87: Golden Stamen Dream",
+    "chapterTitle": "Chapter 87: Golden Stamen Dream",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-87-golden-stamen-dream.html",
+    "date": "2026-10-30T17:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_68",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 68,
+    "fullTitle": "Chapter 68: If Master Had Kept You",
+    "chapterTitle": "Chapter 68: If Master Had Kept You",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-68-if-master-had-kept-you.html",
+    "date": "2026-10-30T12:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_86",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 86,
+    "fullTitle": "Chapter 86: The Heavenly Secrets Pavilion Disclaimer—So Destitute, Yet You Deny Your Poverty?",
+    "chapterTitle": "Chapter 86: The Heavenly Secrets Pavilion Disclaimer—So Destitute, Yet You Deny Your Poverty?",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-86-heavenly-secrets-pavilion.html",
+    "date": "2026-10-30T12:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_86",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 86,
+    "fullTitle": "Chapter 86: Admire from Afar, Never Desecrate",
+    "chapterTitle": "Chapter 86: Admire from Afar, Never Desecrate",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-86-admire-from-afar-never.html",
+    "date": "2026-10-30T12:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_67",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 67,
+    "fullTitle": "Chapter 67: I Can Do It Too",
+    "chapterTitle": "Chapter 67: I Can Do It Too",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-67-i-can-do-it-too.html",
+    "date": "2026-10-30T07:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_85",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 85,
+    "fullTitle": "Chapter 85: My Pig Will Crash Into a Tree",
+    "chapterTitle": "Chapter 85: My Pig Will Crash Into a Tree",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-85-my-pig-will-crash-into-tree.html",
+    "date": "2026-10-30T07:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_85",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 85,
+    "fullTitle": "Chapter 85: A Green Hat for the Imperial Imperial Prince of Huainan",
+    "chapterTitle": "Chapter 85: A Green Hat for the Imperial Imperial Prince of Huainan",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-85-green-hat-for-imperial.html",
+    "date": "2026-10-30T07:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "3_66",
+    "novelId": 3,
+    "novelTitle": "I Saved the Entire Sect by Slacking Off",
+    "num": 66,
+    "fullTitle": "Chapter 66: Kneel and Give Her a Perfect Six",
+    "chapterTitle": "Chapter 66: Kneel and Give Her a Perfect Six",
+    "link": "https://en.novelskyworld.com/2026/10/chapter-66-kneel-and-give-her-perfect.html",
+    "date": "2026-10-30T02:40:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3HXiq4YJgsc8wJky2KKNb8LkKjdzIZxG_7yZEBbE04uBKQiJCE4fcJLitMDqeWK-ux6GuwaTVGl7HoOjMEyIB0ugvA30NBnduE_pvtP38ioccb5sLHDoryyiYkIGUa090LP8qJB5fkyIgRlzYP8R2dOQXWrafvldsS_Cficnwy1HQMagLRhs4UGlZX5I/s320/I_Saved_the_Entire_Sect_by_Slacking_Off_Cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html"
+  },
+  {
+    "uid": "2_84",
+    "novelId": 2,
+    "novelTitle": "When the Entire Sect Read My Thoughts, the Plot Went Off the Rails",
+    "num": 84,
+    "fullTitle": "Chapter 84: Master Chu’s First Foray into Wanxing Palace—Look Out, I’m Going in for a Bite!",
+    "chapterTitle": "Chapter 84: Master Chu’s First Foray into Wanxing Palace—Look Out, I’m Going in for a Bite!",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-84-master-chus-first-foray-into.html",
+    "date": "2026-10-30T02:20:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
+    "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "1_84",
+    "novelId": 1,
+    "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
+    "num": 84,
+    "fullTitle": "Chapter 84: Tyrannical Might for Ten Thousand Years",
+    "chapterTitle": "Chapter 84: Tyrannical Might for Ten Thousand Years",
+    "link": "https://en.novelskyworld.com/2026/11/chapter-84-tyrannical-might-for-ten.html",
+    "date": "2026-10-30T02:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
+    "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
     "uid": "3_65",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -396,6 +756,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_30",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 30,
+    "fullTitle": "Chapter 30: A Sensation Never Felt Before",
+    "chapterTitle": "Chapter 30: A Sensation Never Felt Before",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01883817085.html",
+    "date": "2026-10-27T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_54",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -430,6 +802,18 @@
     "date": "2026-10-27T17:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_29",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 29,
+    "fullTitle": "Chapter 29: Such a Tiny Frame, Such Grand Ambitions",
+    "chapterTitle": "Chapter 29: Such a Tiny Frame, Such Grand Ambitions",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0986934568.html",
+    "date": "2026-10-27T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_53",
@@ -468,6 +852,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_28",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 28,
+    "fullTitle": "Chapter 28: The Novel's Greatest Female Villain",
+    "chapterTitle": "Chapter 28: The Novel's Greatest Female Villain",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01409214325.html",
+    "date": "2026-10-27T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_52",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -502,6 +898,18 @@
     "date": "2026-10-27T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_27",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 27,
+    "fullTitle": "Chapter 27: As Expected of Eldest Martial Brother",
+    "chapterTitle": "Chapter 27: As Expected of Eldest Martial Brother",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0308624818.html",
+    "date": "2026-10-27T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_51",
@@ -564,6 +972,18 @@
     "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
   },
   {
+    "uid": "4_26",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 26,
+    "fullTitle": "Chapter 26: Not a Single One Left",
+    "chapterTitle": "Chapter 26: Not a Single One Left",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01710745019.html",
+    "date": "2026-10-26T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "1_68",
     "novelId": 1,
     "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
@@ -574,6 +994,18 @@
     "date": "2026-10-26T22:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_25",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 25,
+    "fullTitle": "Chapter 25: She Was the 'Old Bastard' Master?",
+    "chapterTitle": "Chapter 25: She Was the 'Old Bastard' Master?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0781129768.html",
+    "date": "2026-10-26T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_49",
@@ -612,6 +1044,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_24",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 24,
+    "fullTitle": "Chapter 24: Could It Be Right Here?",
+    "chapterTitle": "Chapter 24: Could It Be Right Here?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0887798522.html",
+    "date": "2026-10-26T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_48",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -648,6 +1092,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_23",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 23,
+    "fullTitle": "Chapter 23: He Truly Deserved Ten Thousand Deaths",
+    "chapterTitle": "Chapter 23: He Truly Deserved Ten Thousand Deaths",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0116095001.html",
+    "date": "2026-10-26T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_47",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -682,6 +1138,18 @@
     "date": "2026-10-26T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_22",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 22,
+    "fullTitle": "Chapter 22: Giving Face to a Beauty",
+    "chapterTitle": "Chapter 22: Giving Face to a Beauty",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01204817840.html",
+    "date": "2026-10-26T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_46",
@@ -744,6 +1212,18 @@
     "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
   },
   {
+    "uid": "4_21",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 21,
+    "fullTitle": "Chapter 21: Ugly Faces, Cheap Tricks",
+    "chapterTitle": "Chapter 21: Ugly Faces, Cheap Tricks",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0667827917.html",
+    "date": "2026-10-25T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "1_63",
     "novelId": 1,
     "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
@@ -754,6 +1234,18 @@
     "date": "2026-10-25T22:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_20",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 20,
+    "fullTitle": "Chapter 20: This Little Fellow Daoist Is Far Too Interesting",
+    "chapterTitle": "Chapter 20: This Little Fellow Daoist Is Far Too Interesting",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01856905343.html",
+    "date": "2026-10-25T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_44",
@@ -792,6 +1284,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_19",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 19,
+    "fullTitle": "Chapter 19: Familiar Warmth? Pure Luck?",
+    "chapterTitle": "Chapter 19: Familiar Warmth? Pure Luck?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01645809143.html",
+    "date": "2026-10-25T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_43",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -828,6 +1332,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_18",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 18,
+    "fullTitle": "Chapter 18: Utterly Shameless!",
+    "chapterTitle": "Chapter 18: Utterly Shameless!",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01651758098.html",
+    "date": "2026-10-25T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_42",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -862,6 +1378,18 @@
     "date": "2026-10-25T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_17",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 17,
+    "fullTitle": "Chapter 17: Darling, Here I Come!",
+    "chapterTitle": "Chapter 17: Darling, Here I Come!",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_06896013.html",
+    "date": "2026-10-25T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_41",
@@ -936,6 +1464,30 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_16",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 16,
+    "fullTitle": "Chapter 16: Did the Old Monster Take the Wrong Medicine?",
+    "chapterTitle": "Chapter 16: Did the Old Monster Take the Wrong Medicine?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01984236079.html",
+    "date": "2026-10-24T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
+    "uid": "4_15",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 15,
+    "fullTitle": "Chapter 15: Are You Part of the Hype Squad?",
+    "chapterTitle": "Chapter 15: Are You Part of the Hype Squad?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0636669379.html",
+    "date": "2026-10-24T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_39",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -970,6 +1522,18 @@
     "date": "2026-10-24T17:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_14",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 14,
+    "fullTitle": "Chapter 14: He Actually Got One Too?",
+    "chapterTitle": "Chapter 14: He Actually Got One Too?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0179053623.html",
+    "date": "2026-10-24T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_38",
@@ -1008,6 +1572,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_13",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 13,
+    "fullTitle": "Chapter 13: The Old Monster's Sudden Generosity",
+    "chapterTitle": "Chapter 13: The Old Monster's Sudden Generosity",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01410793341.html",
+    "date": "2026-10-24T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_37",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -1042,6 +1618,18 @@
     "date": "2026-10-24T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_12",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 12,
+    "fullTitle": "Chapter 12: Dirty Old Lecher!",
+    "chapterTitle": "Chapter 12: Dirty Old Lecher!",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01089308073.html",
+    "date": "2026-10-24T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_36",
@@ -1116,6 +1704,30 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_11",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 11,
+    "fullTitle": "Chapter 11: The Wise Shun Love, Simps Get Steamed in the Pot",
+    "chapterTitle": "Chapter 11: The Wise Shun Love, Simps Get Steamed in the Pot",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01147467444.html",
+    "date": "2026-10-23T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
+    "uid": "4_10",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 10,
+    "fullTitle": "Chapter 10: This Is Blatant Fraud!",
+    "chapterTitle": "Chapter 10: This Is Blatant Fraud!",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0720306908.html",
+    "date": "2026-10-23T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_34",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -1150,6 +1762,18 @@
     "date": "2026-10-23T17:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_9",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 9,
+    "fullTitle": "Chapter 9: Impressive, My Disciple",
+    "chapterTitle": "Chapter 9: Impressive, My Disciple",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01640740177.html",
+    "date": "2026-10-23T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_33",
@@ -1188,6 +1812,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_8",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 8,
+    "fullTitle": "Chapter 8: A Teachable Disciple",
+    "chapterTitle": "Chapter 8: A Teachable Disciple",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0852670412.html",
+    "date": "2026-10-23T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_32",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -1222,6 +1858,18 @@
     "date": "2026-10-23T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_7",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 7,
+    "fullTitle": "Chapter 7: Testing Which Disciple Has the Makings of a Psychopathic Killer",
+    "chapterTitle": "Chapter 7: Testing Which Disciple Has the Makings of a Psychopathic Killer",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01385054377.html",
+    "date": "2026-10-23T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_31",
@@ -1284,6 +1932,18 @@
     "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
   },
   {
+    "uid": "4_6",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 6,
+    "fullTitle": "Chapter 6: Suffer Anyone, but Never Master",
+    "chapterTitle": "Chapter 6: Suffer Anyone, but Never Master",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0281109049.html",
+    "date": "2026-10-22T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "1_48",
     "novelId": 1,
     "novelTitle": "After Severing Ties, The Prince’s Family Regrets It For Life",
@@ -1294,6 +1954,18 @@
     "date": "2026-10-22T22:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_5",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 5,
+    "fullTitle": "Chapter 5: They Got Hustled by Qin Ran!",
+    "chapterTitle": "Chapter 5: They Got Hustled by Qin Ran!",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01440508995.html",
+    "date": "2026-10-22T19:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_29",
@@ -1332,6 +2004,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_4",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 4,
+    "fullTitle": "Chapter 4: She Was Thoroughly Intrigued",
+    "chapterTitle": "Chapter 4: She Was Thoroughly Intrigued",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_0341476155.html",
+    "date": "2026-10-22T14:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_28",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -1368,6 +2052,18 @@
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
   },
   {
+    "uid": "4_3",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 3,
+    "fullTitle": "Chapter 3: Cross-Dressing Really Cost an Arm and a Leg",
+    "chapterTitle": "Chapter 3: Cross-Dressing Really Cost an Arm and a Leg",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps_01625369968.html",
+    "date": "2026-10-22T09:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
+  },
+  {
     "uid": "3_27",
     "novelId": 3,
     "novelTitle": "I Saved the Entire Sect by Slacking Off",
@@ -1402,6 +2098,18 @@
     "date": "2026-10-22T07:00:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi44S8d8HI6VSRqi3PClNXsCSwy23aHJv4Hmk3Y_HdpekCGzMEhtAnfAOrCSV-aDh3J4vfa2Sgnpe_IRrjlIkfUrIM0-9Vu-t9x1Opsz2ab4P394JnXrYax-y0Af90QY50xvyEb948xN14er5db6c6LEJM-PSi867VfU-T_EYHha-j9oCElXs5Ik0rn0HTf/s0-rw/1000134866.webp",
     "novelLink": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html"
+  },
+  {
+    "uid": "4_2",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 2,
+    "fullTitle": "Chapter 2: Why Don't You Suffer in My Place?",
+    "chapterTitle": "Chapter 2: Why Don't You Suffer in My Place?",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-simps.html",
+    "date": "2026-10-22T03:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "3_26",
@@ -1462,6 +2170,18 @@
     "date": "2026-10-21T22:20:00+00:00",
     "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6oiZ2NOc7iXSzqAOY0iXVpngFDBI680k3aPfAJwNiN8TFrCqFTk636ux667mWRDpjlI3MbsgtQsQHLDKrV3aO1Gb2o6rCkAWveIBkgI1fyEn5fDZHCjzB_SmZook0lGoPh0NMpbtVfuz_Y5w_URy30nPNo0A-syK0DogZEbVnRDyzI8FCIseJXJdpoidV/s0-rw/When%20the%20Entire%20Sect%20Read%20My%20Thoughts,%20the%20Plot%20Went%20Off%20the%20Rails.webp",
     "novelLink": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html"
+  },
+  {
+    "uid": "4_1",
+    "novelId": 4,
+    "novelTitle": "The Villain Disciples Are All Simps? The Slacking Shizun Runs Wild",
+    "num": 1,
+    "fullTitle": "Chapter 1: The Proper Way to Have Them All",
+    "chapterTitle": "Chapter 1: The Proper Way to Have Them All",
+    "link": "https://en.novelskyworld.com/2026/10/the-villain-disciples-are-all-1.html",
+    "date": "2026-10-21T22:00:00+00:00",
+    "novelCover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRumG-LIGNPcQHbAOC-e9O_rKtrhIc-Vm9P0LZSNMEKTxYFXfzN7BU_Drrmtmnl5KhH4108gr8H3UaK8zigIHWljJFJnqRStJqJr1Pnumz2bhT3QrP4Vv4NVtQXcvnG4chfKTMhia_wELuIpO0CampiwV09Bx6DrMGWZ3zTAK6YGX1YFvifV_JppW_70Av/s1264/cover.webp",
+    "novelLink": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html"
   },
   {
     "uid": "1_43",
