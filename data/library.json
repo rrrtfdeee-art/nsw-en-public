@@ -57,27 +57,26 @@
     "link": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html",
     "url": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html",
     "status": "ONGOING",
-    "genre": "xianxia_comedy",
+    "genre": "Webnovel",
     "genres": [
-      "xianxia_comedy",
-      "Fantasy",
-      "Romance",
-      "Comedy"
+      "Webnovel"
     ],
-    "tags": [
-      "Transmigration",
-      "Female Protagonist",
-      "Cultivation",
-      "Slow Life",
-      "Smart Protagonist",
-      "Calm Protagonist",
-      "Master-Disciple Relationship",
-      "Cross-Dressing",
-      "Hidden Identity",
-      "Misunderstandings",
-      "Reverse Harem",
-      "Beast Companions",
-      "Book Transmigration"
-    ]
+    "tags": []
+  },
+  {
+    "id": 7,
+    "order": 7,
+    "title": "English Novel 2",
+    "title_original": "",
+    "slug": "english-novel-2-placeholder",
+    "cover": "",
+    "link": "",
+    "url": "",
+    "status": "ONGOING",
+    "genre": "Webnovel",
+    "genres": [
+      "Webnovel"
+    ],
+    "tags": []
   }
 ]
