@@ -9,11 +9,19 @@
     "link": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
     "url": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
     "status": "ONGOING",
-    "genre": "historical_noble_drama",
+    "genre": "Historical",
     "genres": [
-      "historical_noble_drama"
+      "Historical",
+      "Drama",
+      "Tragedy",
+      "Face-Slapping"
     ],
-    "tags": []
+    "tags": [
+      "Severing Ties",
+      "Aristocracy",
+      "Imperial Court",
+      "Regret"
+    ]
   },
   {
     "id": 2,
@@ -25,11 +33,22 @@
     "link": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "url": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "status": "ONGOING",
-    "genre": "Webnovel",
+    "genre": "Comedy",
     "genres": [
-      "Webnovel"
+      "Comedy",
+      "Fantasy",
+      "Xianxia",
+      "Action",
+      "Adventure"
     ],
-    "tags": []
+    "tags": [
+      "Mind-Reading",
+      "Female Protagonist",
+      "Cannon Fodder",
+      "Doting Sect",
+      "Derailing Plot",
+      "No CP"
+    ]
   },
   {
     "id": 3,
@@ -41,11 +60,28 @@
     "link": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html",
     "url": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html",
     "status": "ONGOING",
-    "genre": "xianxia_comedy",
+    "genre": "Comedy",
     "genres": [
-      "xianxia_comedy"
+      "Comedy",
+      "Fantasy",
+      "Xianxia",
+      "Transmigration",
+      "Action",
+      "Cultivation",
+      "Adventure"
     ],
-    "tags": []
+    "tags": [
+      "Female Protagonist",
+      "Slacker",
+      "Salted Fish",
+      "Rebirth / Transmigration into a Book",
+      "Anti-cliché",
+      "Parody",
+      "Hidden Overpowered",
+      "Scheming",
+      "Loving Sect",
+      "No CP"
+    ]
   },
   {
     "id": 4,
@@ -57,11 +93,28 @@
     "link": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html",
     "url": "https://en.novelskyworld.com/p/the-villain-disciples-are-all-simps.html",
     "status": "ONGOING",
-    "genre": "Webnovel",
+    "genre": "Xianxia",
     "genres": [
-      "Webnovel"
+      "Xianxia",
+      "Comedy",
+      "Fantasy",
+      "Romance"
     ],
-    "tags": []
+    "tags": [
+      "Transmigration",
+      "Female Protagonist",
+      "Cultivation",
+      "Slow Life",
+      "Smart Protagonist",
+      "Calm Protagonist",
+      "Master-Disciple Relationship",
+      "Cross-Dressing",
+      "Hidden Identity",
+      "Misunderstandings",
+      "Reverse Harem",
+      "Beast Companions",
+      "Book Transmigration"
+    ]
   },
   {
     "id": 5,
@@ -73,11 +126,23 @@
     "link": "https://en.novelskyworld.com/p/confined-in-forbidden-ground-for-500.html",
     "url": "https://en.novelskyworld.com/p/confined-in-forbidden-ground-for-500.html",
     "status": "ONGOING",
-    "genre": "action_epic",
+    "genre": "Action",
     "genres": [
-      "action_epic"
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Xianxia"
     ],
-    "tags": []
+    "tags": [
+      "Revenge",
+      "Severing Ties",
+      "Cultivation",
+      "Rogue Cultivator",
+      "Decisive Protagonist",
+      "Face-Slapping",
+      "Tragic Past",
+      "Cold Composure"
+    ]
   },
   {
     "id": 6,
@@ -86,13 +151,23 @@
     "title_original": "大明：贪官拉棺死谏，气疯老朱！",
     "slug": "great-ming-corrupt-official-drags-a-coffin",
     "cover": "https://cdn.skyworldtl.com/gh/rrrtfdeee-art/nsw-en-public@main/covers/great-ming-corrupt-official-drags-a-coffin.webp",
-    "link": "https://en.skyworldtl.com/p/great-ming-corrupt-official-drags_01359272156.html",
-    "url": "https://en.skyworldtl.com/p/great-ming-corrupt-official-drags_01359272156.html",
+    "link": "https://en.skyworldtl.com/p/great-ming-corrupt-official-drags.html",
+    "url": "https://en.skyworldtl.com/p/great-ming-corrupt-official-drags.html",
     "status": "COMING SOON",
-    "genre": "Webnovel",
+    "genre": "Historical",
     "genres": [
-      "Webnovel"
+      "Historical",
+      "Political",
+      "Transmigration",
+      "Drama",
+      "Comedy"
     ],
-    "tags": []
+    "tags": [
+      "Emperor Hongwu",
+      "Zhu Yuanzhang",
+      "Court Politics",
+      "Corrupt Official",
+      "Protest"
+    ]
   }
 ]
