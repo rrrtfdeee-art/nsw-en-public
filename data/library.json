@@ -80,8 +80,8 @@
     "tags": []
   },
   {
-    "id": 7,
-    "order": 7,
+    "id": 6,
+    "order": 6,
     "title": "Great Ming: The Corrupt Official Drags a Coffin to Protest, Driving Emperor Hongwu Mad!",
     "title_original": "大明：贪官拉棺死谏，气疯老朱！",
     "slug": "great-ming-corrupt-official-drags-a-coffin",
@@ -93,6 +93,7 @@
     "genres": [
       "Webnovel"
     ],
-    "tags": []
+    "tags": [],
+    "sort_order": 6
   }
 ]
