@@ -9,19 +9,11 @@
     "link": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
     "url": "https://en.novelskyworld.com/p/after-severing-ties-princes-family.html",
     "status": "ONGOING",
-    "genre": "Historical",
+    "genre": "historical_noble_drama",
     "genres": [
-      "Historical",
-      "Drama",
-      "Tragedy",
-      "Face-Slapping"
+      "historical_noble_drama"
     ],
-    "tags": [
-      "Severing Ties",
-      "Aristocracy",
-      "Imperial Court",
-      "Regret"
-    ]
+    "tags": []
   },
   {
     "id": 2,
@@ -33,22 +25,11 @@
     "link": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "url": "https://en.novelskyworld.com/p/when-entire-sect-read-my-thoughts-plot.html",
     "status": "ONGOING",
-    "genre": "Comedy",
+    "genre": "Webnovel",
     "genres": [
-      "Comedy",
-      "Fantasy",
-      "Xianxia",
-      "Action",
-      "Adventure"
+      "Webnovel"
     ],
-    "tags": [
-      "Mind-Reading",
-      "Female Protagonist",
-      "Cannon Fodder",
-      "Doting Sect",
-      "Derailing Plot",
-      "No CP"
-    ]
+    "tags": []
   },
   {
     "id": 3,
@@ -60,28 +41,11 @@
     "link": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html",
     "url": "https://en.novelskyworld.com/p/i-saved-entire-sect-by-slacking-off.html",
     "status": "ONGOING",
-    "genre": "Comedy",
+    "genre": "xianxia_comedy",
     "genres": [
-      "Comedy",
-      "Fantasy",
-      "Xianxia",
-      "Transmigration",
-      "Action",
-      "Cultivation",
-      "Adventure"
+      "xianxia_comedy"
     ],
-    "tags": [
-      "Female Protagonist",
-      "Slacker",
-      "Salted Fish",
-      "Rebirth / Transmigration into a Book",
-      "Anti-cliché",
-      "Parody",
-      "Hidden Overpowered",
-      "Scheming",
-      "Loving Sect",
-      "No CP"
-    ]
+    "tags": []
   },
   {
     "id": 4,
@@ -95,26 +59,9 @@
     "status": "ONGOING",
     "genre": "Xianxia",
     "genres": [
-      "Xianxia",
-      "Comedy",
-      "Fantasy",
-      "Romance"
+      "Xianxia"
     ],
-    "tags": [
-      "Transmigration",
-      "Female Protagonist",
-      "Cultivation",
-      "Slow Life",
-      "Smart Protagonist",
-      "Calm Protagonist",
-      "Master-Disciple Relationship",
-      "Cross-Dressing",
-      "Hidden Identity",
-      "Misunderstandings",
-      "Reverse Harem",
-      "Beast Companions",
-      "Book Transmigration"
-    ]
+    "tags": []
   },
   {
     "id": 5,
@@ -126,23 +73,11 @@
     "link": "https://en.novelskyworld.com/p/confined-in-forbidden-ground-for-500.html",
     "url": "https://en.novelskyworld.com/p/confined-in-forbidden-ground-for-500.html",
     "status": "ONGOING",
-    "genre": "Action",
+    "genre": "action_epic",
     "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy",
-      "Xianxia"
+      "action_epic"
     ],
-    "tags": [
-      "Revenge",
-      "Severing Ties",
-      "Cultivation",
-      "Rogue Cultivator",
-      "Decisive Protagonist",
-      "Face-Slapping",
-      "Tragic Past",
-      "Cold Composure"
-    ]
+    "tags": []
   },
   {
     "id": 6,
@@ -156,18 +91,8 @@
     "status": "COMING SOON",
     "genre": "Historical",
     "genres": [
-      "Historical",
-      "Political",
-      "Transmigration",
-      "Drama",
-      "Comedy"
+      "Historical"
     ],
-    "tags": [
-      "Emperor Hongwu",
-      "Zhu Yuanzhang",
-      "Court Politics",
-      "Corrupt Official",
-      "Protest"
-    ]
+    "tags": []
   }
 ]
