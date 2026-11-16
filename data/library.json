@@ -113,7 +113,7 @@
   },
   {
     "id": 8,
-    "order": 8,
+    "order": 12,
     "title": "My Childhood Friends Are All Game Bosses",
     "title_original": "我的青梅竟都是游戏BOSS",
     "slug": "my-childhood-friends-are-all-game-bosses",
@@ -123,8 +123,21 @@
     "status": "ONGOING",
     "genre": "Webnovel",
     "genres": [
-      "Webnovel"
+      "Action",
+      "Fantasy",
+      "Game World",
+      "Superpowers",
+      "Sci-Fi Cultivation",
+      "Transmigration"
     ],
-    "tags": []
+    "tags": [
+      "Overpowered Protagonist",
+      "Sign-In System",
+      "Childhood Sweethearts",
+      "Female Bosses",
+      "Gene Evolution",
+      "Demon King Bloodline",
+      "War Academy"
+    ]
   }
 ]
