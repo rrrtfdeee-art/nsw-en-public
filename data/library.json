@@ -113,7 +113,7 @@
   },
   {
     "id": 8,
-    "order": 12,
+    "order": 8,
     "title": "My Childhood Friends Are All Game Bosses",
     "title_original": "我的青梅竟都是游戏BOSS",
     "slug": "my-childhood-friends-are-all-game-bosses",
@@ -123,21 +123,24 @@
     "status": "ONGOING",
     "genre": "Webnovel",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Game World",
-      "Superpowers",
-      "Sci-Fi Cultivation",
-      "Transmigration"
+      "Webnovel"
     ],
-    "tags": [
-      "Overpowered Protagonist",
-      "Sign-In System",
-      "Childhood Sweethearts",
-      "Female Bosses",
-      "Gene Evolution",
-      "Demon King Bloodline",
-      "War Academy"
-    ]
+    "tags": []
+  },
+  {
+    "id": 9,
+    "order": 9,
+    "title": "After Being Expelled from the Prince's Mansion, I Became the Strongest Jinyiwei",
+    "title_original": "被趕出王府後，我成了最強錦衣衛",
+    "slug": "after-being-expelled-from-the-princes-mansion-i-became-the-strongest-jinyiwei",
+    "cover": "https://i2.novel543.com/thumb/300x420/20250201/040153112056.jpg",
+    "link": "https://en.skyworldtl.com/p/after-being-expelled-from-princes.html",
+    "url": "https://en.skyworldtl.com/p/after-being-expelled-from-princes.html",
+    "status": "ONGOING",
+    "genre": "Webnovel",
+    "genres": [
+      "Webnovel"
+    ],
+    "tags": []
   }
 ]
